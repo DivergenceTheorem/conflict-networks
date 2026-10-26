@@ -21,8 +21,6 @@ The network data covers 199 ACLED battle events in Sudan from 24 January 2003 to
 ```
 .
 ├── Sudan_Conflict_MainPaper.pdf        # main paper (Fernandes, Melo, Rubbini & Centorrino)
-├── Konig et al. (2017).pdf             # theoretical framework
-├── Provenzano & Bull.pdf               # related methodology (mining and local development)
 ├── sudan_data_analysis/
 │   ├── Econ_Research.Rproj             # RStudio project; sets the working directory
 │   ├── Mapping.R                       # map, matrices and centralities
@@ -157,7 +155,7 @@ Event data comes from the **Armed Conflict Location & Event Data Project (ACLED)
 ## References
 
 - Fernandes, M., Melo, A., Rubbini, C., & Centorrino, S. *Sudan Conflict: A Network Approach.* Working paper ([Sudan_Conflict_MainPaper.pdf](Sudan_Conflict_MainPaper.pdf)).
-- König, M. D., Rohner, D., Thoenig, M., & Zilibotti, F. (2017). Networks in conflict: Theory and evidence from the great war of Africa. *Econometrica*, 85(4), 1093–1132.
+- König, M. D., Rohner, D., Thoenig, M., & Zilibotti, F. (2017). Networks in conflict: Theory and evidence from the great war of Africa. *Econometrica*, 85(4), 1093–1132. <https://www.jstor.org/stable/44955154>
 - Provenzano, S., & Bull, H. (2023). *The Local Economic Impact of Mineral Mining in Africa: Evidence from Four Decades of Satellite Imagery.* arXiv:2111.05783. <https://arxiv.org/abs/2111.05783>
 
 Code: <https://github.com/DivergenceTheorem/conflict-networks>

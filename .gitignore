@@ -35,3 +35,6 @@ claude.md
 #MLFlow files
 mlflow.db
 mlartifacts
+# Third-party papers (linked in README)
+Konig et al. (2017).pdf
+Provenzano & Bull.pdf
